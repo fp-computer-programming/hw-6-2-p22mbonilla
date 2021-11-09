@@ -8,6 +8,7 @@ print(len(my_lst))
 
 # Question 3
 print(my_lst[2])
+
 # Question 4
 print(5 in my_lst)
 
